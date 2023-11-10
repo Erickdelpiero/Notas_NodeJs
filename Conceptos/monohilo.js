@@ -5,9 +5,9 @@ setInterval(function(){
     console.log(i);
     i++;
 
-    if(i===5){
-        var a=i+z;
-    }
-},500);
+    // if(i===5){
+    //     var a=i+z;
+    // }
+},2000);
 
-console.log('Terminé');
+console.log('Ya terminé');
